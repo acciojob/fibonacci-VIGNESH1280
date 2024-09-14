@@ -13,7 +13,7 @@ let a = 0; // F(0)
     }
 
     // Return the num-th Fibonacci number
-    return a;
+    return b;
 	
 }
 
